@@ -1,5 +1,4 @@
-// Kata description.
-
+// link to kata: https://www.codewars.com/kata/54ff3102c1bad923760001f3
 
 // My Solution
 
