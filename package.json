@@ -1,0 +1,25 @@
+{
+  "name": "codewars",
+  "version": "1.0.0",
+  "description": "codewars",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sadpeak/CodeWars.git"
+  },
+  "keywords": [
+    "codewars"
+  ],
+  "author": "Sadpeak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sadpeak/CodeWars/issues"
+  },
+  "homepage": "https://github.com/Sadpeak/CodeWars#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
