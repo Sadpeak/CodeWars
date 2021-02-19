@@ -1,0 +1,22 @@
+// link to Kata: 
+'use strict'
+
+// My solution
+
+
+
+
+
+
+module.exports = ;
+
+// best solution/practice
+
+
+// What I learn from this kata?
+
+/*
+
+
+
+*/
