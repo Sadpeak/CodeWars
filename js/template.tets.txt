@@ -1,14 +1,14 @@
-cosnt func = requre('./')
+const func = require('./')
 
 
 test('nameTest 1', () => {
-    expect(filter_list()).toEqual()
+    expect(func()).toEqual()
 })
 
 test('nameTest 2', () => {
-    expect(filter_list()).toEqual()
+    expect(func()).toEqual()
 })
 
 test('nameTest 3', () => {
-    expect(filter_list()).toEqual()
+    expect(func()).toEqual()
 })
